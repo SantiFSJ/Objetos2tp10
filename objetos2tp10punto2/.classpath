@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/santi/OneDrive/Escritorio/My files/Mi Facu/2do Año/2do Cuatrimestre/Seminario  de Lenguajes/mysql-connector-java-5.1.48 .jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
